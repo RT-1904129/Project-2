@@ -4,6 +4,6 @@ Here I use Naive Bayes algorithms,NLP(Natural Language Processing) to make my mo
 different news agencies 
 - Here I use "all_data.csv" for training my model and for testing I do web scraping from three news channel article 
 - Here I use following step to make this model:-Exploratory data analysis(data cleaning,removing NULL values) 
-- Here I use  Naive Bayes algorithm to make my model \
+- Here I use  Naive Bayes algorithm to make my model 
 
 Every step I mention in my jupiter notebook file Problem Statement3.ipynb file
