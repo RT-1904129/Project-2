@@ -1,4 +1,4 @@
-# Predict how many positive article created by news agencies
+# Predict How many positive article created by News agencies
 Here I made a model which perform sentiment analysis to check how many positive news article produce by any news channel \
 Here I use Naive Bayes algorithms,NLP(Natural Language Processing) to make my model and also web scraping for getting news article from
 different news agencies \
